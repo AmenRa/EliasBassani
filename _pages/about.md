@@ -2,24 +2,26 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Thanks to <a href="https://en.wikipedia.org/wiki/Dan_Flavin">Dan Flavin</a> for the wonderful lights.</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hey there! I am Elias Bassani, a Ph.D. student at the University of Milano-Bicocca, Italy (advised by <a href="https://ikr3.disco.unimib.it/people/gabriella-pasi/">Prof. Gabriella Pasi</a>). I also work for a private company called <a href="https://www.consorzioc2t.it">C2T</a>, which is funding my Ph.D.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research involves designing novel approaches based on Neural Networks for Personalized Information Retrieval.
+I am also interested in methods to leverage unlabelled data to improve Information Retrieval systems.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I like building softwares to speed up research activities.
+In this regard, I authored <a href="https://amenra.github.io/ranx/">ranx</a>, a Python library for ranking evaluation, comparison, and fusion, and I built <a href="https://amenra.github.io/ranxhub/">ranxhub</a> a sharing platform for pre-computed runs.
+
+I published in major conferences and journals, such as SIGIR, CIKM, ECIR, and <a href="https://www.sciencedirect.com/journal/information-fusion">Information Fusion</a>. New articles are coming in the next few months.
